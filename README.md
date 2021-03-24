@@ -6,16 +6,16 @@ The project involves coming up with a mask dispensing system that alerts a perso
 
 ## Components
 
-1.	1 Arduino MEGA 2560 board
-2.	2 HC-SRO4 ultrasonic sensors
-3.	1 LCD display
-4.	1 Potentiometer
-5.	1 Membrane Keypad
-6.	1 Active Buzzer
-7.	1 Breadboard
-8.	2 LEDs (green and red)
-9.	2 220Ω resistors
-10.	Several jumper-wires
+1 Arduino MEGA 2560 board,
+2 HC-SRO4 ultrasonic sensors,
+1 LCD display,
+1 Potentiometer,
+1 Membrane Keypad,
+1 Active Buzzer,
+1 Breadboard,
+2 LEDs (green and red),
+2 220Ω resistors,
+Several jumper-wires
 
 ## Specifications
 
