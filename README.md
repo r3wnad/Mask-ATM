@@ -70,7 +70,7 @@ Character resolution:	5 x 8 pixels
 3	| V0 | 10 kΩ potentiometer |	Contrast adjustment
 4	| RS	| Pin 7 | Register select signal
 5	| R/W	| GND |	Read/write select signal (grounded to write)
-6	| E	| Pin 8 | Arduino	Operation enable signal
+6	| E	| Pin 8 | Operation enable signal
 7–14 | D0 – D7 |	| Data bus lines used for 8-bit mode
 11-14 |	D4 – D7	| Pin 9-12 |	Data bus lines used for 4-bit mode
 15 | A (LED+) |	5V | Anode for LCD backlight
