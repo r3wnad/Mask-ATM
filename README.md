@@ -75,3 +75,6 @@ Character resolution:	5 x 8 pixels
 11-14 |	D4 – D7	| Pin 9-12 |	Data bus lines used for 4-bit mode
 15 | A (LED+) |	5V | Anode for LCD backlight
 16 | K (LED-)	| GND | Cathode for LCD backlight
+
+## Breadboard Layout
+![Breadboard layout](Fritzing/Method%20B_bb.jpg)
