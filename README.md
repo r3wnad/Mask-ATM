@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The project involves coming up with a mask dispensing system that alerts a person when they exit their home
+The project involves coming up with a mask dispensing system that alerts a person when they exit their home. With an added function of alerting the person when the number of masks runs low.
 
 ## Components
 
