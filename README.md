@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The project involves coming up with a mask dispensing system that alerts a person when they exit their home
+The project involves coming up with a mask dispensing system that alerts a person when they exit their home. With an added function of alerting the person when the number of masks runs low.
 
 ## Components
 
@@ -70,8 +70,8 @@ Character resolution:	5 x 8 pixels
 3	| V0 | 10 kΩ potentiometer |	Contrast adjustment
 4	| RS	| Pin 7 | Register select signal
 5	| R/W	| GND |	Read/write select signal (grounded to write)
-6	| E	| Pin 8 | Arduino	Operation enable signal
-7–10 | D0 – D7 |	| Data bus lines used for 8-bit mode
+6	| E	| Pin 8 | Operation enable signal
+7–14 | D0 – D7 |	| Data bus lines used for 8-bit mode
 11-14 |	D4 – D7	| Pin 9-12 |	Data bus lines used for 4-bit mode
 15 | A (LED+) |	5V | Anode for LCD backlight
 16 | K (LED-)	| GND | Cathode for LCD backlight
